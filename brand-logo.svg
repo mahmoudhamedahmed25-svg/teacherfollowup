@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="الادارة التعليمية -نظام الموجهين">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="56" fill="url(#g)"/>
+  <rect x="36" y="36" width="184" height="184" rx="44" fill="rgba(255,255,255,0.12)"/>
+  <path d="M70 104c0-13 10-24 23-24h70c13 0 23 11 23 24v54c0 7-6 13-13 13H83c-7 0-13-6-13-13v-54z" fill="url(#g2)"/>
+  <path d="M82 100h92" stroke="#1d4ed8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M82 124h92" stroke="#1d4ed8" stroke-width="8" stroke-linecap="round" opacity="0.7"/>
+  <path d="M82 148h62" stroke="#1d4ed8" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
+  <path d="M170 76l18 14-18 14" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="178" cy="178" r="16" fill="#ffffff"/>
+  <circle cx="178" cy="178" r="7" fill="#1d4ed8"/>
+</svg>
